@@ -1,6 +1,7 @@
 # SKY Escape From Tarkov Free Version
 
-!(https://github.com/user-attachments/assets/a6e65eb7-3ac1-490b-9de2-a1a20e555d12)
+![2025-04-01 15_17_51-(4) SKY для EFT  ESP, MISC,QUEST HELPER,SILENT LOOT,SPOOFER](https://github.com/user-attachments/assets/7a5a5514-d551-431d-ba1e-5fe76f60f2d6)
+
 
 Introducing **SKY**, a brand new legit software from the developers at SMG. This software allows you to play legitimately, conduct raids for looting, and provides all the information on the map. It also features custom loot, a built-in spoofer, and a cleaner.
 
